@@ -2,7 +2,7 @@
 
 Thank you Thunderosa for revamping original idea to hi res and more ...
 
-![IRD logo](https://avatars1.githubusercontent.com/u/31619794?s=200)
+<img src="https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/samples/logo_v4_splitstack.png" height="165">
 
 [Main website](http://ird.cash)
 
