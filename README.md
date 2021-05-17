@@ -1,6 +1,6 @@
 # This is the graphicals elements of the iridium cryptocurrency (IRD)
 
-Thank you Thunderosa for revamping original idea to hi res and more ...
+Thank you @Thunderosa for revamping the original idea, giving hi-res, vetors and more ...
 
 <img src="https://raw.githubusercontent.com/iridiumdev/iridium-graphics/master/samples/logo_v4_splitstack.png" height="165">
 
